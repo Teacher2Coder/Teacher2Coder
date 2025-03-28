@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teacher2Coder
 - 👀 I’m interested in Sport Data Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on... well not sure yet
+- 💞️ I’m looking to collaborate on my EduTracker app. Send me a message if you're intested!
 - ⚡ Fun fact: I am a public school social studies teacher looking to get into the world of coding!
 - [Check out my portfolio!](https://ethanowens.netlify.app/)
 
